@@ -233,10 +233,12 @@ header {
 .m_card {
 	width: 48%;
 	float: left;
+	cursor: grab;
 }
 .s_card {
 	width: 48%;
 	float: right;
+	cursor: grab;
 }
 .s_card img:first-child {
 	margin-bottom: 40px;
