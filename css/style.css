@@ -331,7 +331,7 @@ header {
 	/*events starts*/
 
 .events {
-	height: 300px;
+	height: 350px;
 	padding: 40px 0;
 	position: relative;
 }
@@ -369,7 +369,7 @@ header {
 }
 .slide_btn {
 	position: absolute;
-    top: 90%;
+    top: 80%;
     left: 10%;
 }
 .slider {
