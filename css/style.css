@@ -335,11 +335,15 @@ header {
 	padding: 40px 0;
 	position: relative;
 }
+.e_container {
+	-webkit-box-shadow: 10px 10px 29px 0px lightgray;
+	-moz-box-shadow: 10px 10px 29px 0px lightgray;
+	box-shadow: 10px 10px 29px 0px lightgray;
+}
 .slide {
 	height: 350px;
 	padding: 20px;
 	overflow: hidden;
-	border: 1px solid lightgray;
 	border-radius: 10px;
 	display: none;
 	animation: view 1s ease;
