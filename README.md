@@ -1,1 +1,1 @@
-https://mr-mijan-joy.github.io/Burger/
+https://mrmijanjoy.github.io/Burger/
